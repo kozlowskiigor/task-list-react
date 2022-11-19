@@ -1,0 +1,28 @@
+section {
+    background-color: white;
+    border-bottom: 10px solid #eee;
+}
+
+.section__title {
+    align-items: center;
+    padding: 10px 0 10px 20px;
+    margin: 0;
+}
+
+.section__title--borderBottom {
+    border-bottom: 3px solid #eee;
+}
+
+.section__header {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr auto;
+    border-bottom: 3px solid #eee;
+    align-items: center;
+}
+
+@media (max-width:767px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}

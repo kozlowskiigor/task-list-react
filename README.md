@@ -16,9 +16,18 @@ You can fill in the input field to add task to the task list.
 When then input field is filled clicking teal button which is located on the right will add this task to the list below.
 
 ### Task list
-Adding a task by pressing the button will cause it to appear on the list below between two buttons. 
+**Adding a task by pressing the button will cause it to appear on the list below between two buttons.**
 
-Green button on the left is a marker that shows if the task is completed or not. After adding a task it is empty, when we click on it, we will mark the task as completed and it will be crossed out and the cross mark will apear inside the button.
+Green button on the left is a marker that shows if the task is completed or not. After adding a task it is empty, when we click on it, we will mark the task as completed and the task will be crossed out and the cross mark will apear inside the button. We can click it again both strikethrough and the check mark will disappear changing our task "to complete".
+
+Red button on the right with trash can icon is used to delete completed tasks from our list.
+
+**Two more buttons appear to the right of "Lista zadań" when at least one task is added to the list.**
+
+First "Ukryj ukończone" is used to hide tasks that are marked as completed. After hiding the tasks the inscription "Ukryj ukończone" will change to "Pokaż ukończone" which will show completed tasks back on the list.
+
+Second "Ukończ wszystkie" is used to mark all tasks from the list as completed.
+
 
 ## <img src="public/checkbox.png" height="20"/> **Technologies used in project:**
 - HTML

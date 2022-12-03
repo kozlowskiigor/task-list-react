@@ -1,4 +1,4 @@
-# Task list
+# <img src="public/checkbox.png" height="30"/> Task list
 ![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/CreamyVastLeech-max-1mb.gif)
 
 ## Task List Demo
@@ -6,9 +6,10 @@
 
 ## Preview
 ![My website](https://raw.githubusercontent.com/kozlowskiigor/simple-to-do-list/main/To-doAnimation2.gif)
-## **Description**
 
+## **Description**
 Hello, this is my next project. The task was to create a [to-do list](https://kozlowskiigor.github.io/simple-to-do-list/simpleToDoList.html) with a basic features such as adding and removing next tasks. I hope you will enjoy it!
+
 ## **Technologies used in project:**
 - HTML
 - CSS

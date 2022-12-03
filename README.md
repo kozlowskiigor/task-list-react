@@ -1,6 +1,19 @@
 # Task list
 
-Description
+<br>
+
+![My website](https://raw.githubusercontent.com/kozlowskiigor/simple-to-do-list/main/To-doAnimation2.gif)
+## **Description**
+
+Hello, this is my next project. The task was to create a [to-do list](https://kozlowskiigor.github.io/simple-to-do-list/simpleToDoList.html) with a basic features such as adding and removing next tasks. I hope you will enjoy it!
+## **Technologies used in project:**
+- HTML
+- CSS
+- JAVASCRIPT
+- BEM CONVENTION
+- ES6+ FEATURES
+- GIT
+- REACT
 
 # Getting Started with Create React App
 

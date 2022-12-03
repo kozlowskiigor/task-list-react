@@ -10,10 +10,15 @@
 ## <img src="public/checkbox.png" height="20"/> **Description**
 
 ### Add new task field
-You can fill in the input field to add task to the task list
+You can fill in the input field to add task to the task list.
 
 ### Add new task button
-When then input field is filled clicking teal button which is located on the right will add this task to the list below
+When then input field is filled clicking teal button which is located on the right will add this task to the list below.
+
+### Task list
+Adding a task by pressing the button will cause it to appear on the list below between two buttons. 
+
+Green button on the left is a marker that shows if the task is completed or not. After adding a task it is empty, when we click on it, we will mark the task as completed and it will be crossed out and the cross mark will apear inside the button.
 
 ## <img src="public/checkbox.png" height="20"/> **Technologies used in project:**
 - HTML

@@ -9,10 +9,10 @@
 
 ## <img src="public/checkbox.png" height="20"/> **Description**
 
-### Add new task field
+### **Add new task field**
 You can fill in the input field to add task to the task list.
 
-### Add new task button
+### **Add new task button**
 When then input field is filled clicking teal button which is located on the right will add this task to the list below.
 
 ### Task list

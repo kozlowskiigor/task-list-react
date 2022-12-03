@@ -1,14 +1,19 @@
-# <img src="public/checkbox.png" height="25"/> Task list
+# <img src="public/checkbox.png" height="25"/> **Task list**
 ![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/CreamyVastLeech-max-1mb.gif)
 
-##  <img src="public/checkbox.png" height="20"/> Task List Demo
+##  <img src="public/checkbox.png" height="20"/> **Task List Demo**
 [Task List Demo](https://kozlowskiigor.github.io/simple-to-do-list/simpleToDoList.html) 
 
-## <img src="public/checkbox.png" height="20"/> Preview
+## <img src="public/checkbox.png" height="20"/> **Preview**
 ![My website](https://raw.githubusercontent.com/kozlowskiigor/simple-to-do-list/main/To-doAnimation2.gif)
 
 ## <img src="public/checkbox.png" height="20"/> **Description**
-Hello, this is my next project. The task was to create a [to-do list](https://kozlowskiigor.github.io/simple-to-do-list/simpleToDoList.html) with a basic features such as adding and removing next tasks. I hope you will enjoy it!
+
+### Add new task field
+You can fill in the input field to add task to the task list
+
+### Add new task button
+When then input field is filled clicking teal button which is located on the right will add this task to the list below
 
 ## <img src="public/checkbox.png" height="20"/> **Technologies used in project:**
 - HTML

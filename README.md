@@ -1,9 +1,10 @@
 # Task list
-
 ![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/CreamyVastLeech-max-1mb.gif)
 
-## Preview
+## Task List Demo
+[Task List Demo](https://kozlowskiigor.github.io/simple-to-do-list/simpleToDoList.html) 
 
+## Preview
 ![My website](https://raw.githubusercontent.com/kozlowskiigor/simple-to-do-list/main/To-doAnimation2.gif)
 ## **Description**
 

@@ -1,4 +1,4 @@
-# <img src="public/checkbox.png" height="20"/> Task list
+# <img src="public/checkbox.png" height="25"/> Task list
 ![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/CreamyVastLeech-max-1mb.gif)
 
 ## Task List Demo

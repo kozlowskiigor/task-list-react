@@ -2,7 +2,7 @@
 ![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/CreamyVastLeech-max-1mb.gif)
 
 ##  <img src="public/checkbox.png" height="20"/> **Task List Demo**
-[Task List Demo](https://kozlowskiigor.github.io/simple-to-do-list/simpleToDoList.html) 
+[Task List Demo](https://kozlowskiigor.github.io/task-list-react/) 
 
 ## <img src="public/checkbox.png" height="20"/> **Preview**
 ![My website](https://raw.githubusercontent.com/kozlowskiigor/simple-to-do-list/main/To-doAnimation2.gif)

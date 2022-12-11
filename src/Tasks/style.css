@@ -1,60 +1,60 @@
 .list {
-    list-style: none;
-    padding: 20px 30px;
-    background-color: white;
-    margin: 0;
+  list-style: none;
+  padding: 20px 30px;
+  background-color: white;
+  margin: 0;
 }
 
 .list__item {
-    display: grid;
-    grid-template-columns: auto 1fr auto;
-    padding: 10px;
-    grid-gap: 10px;
-    border-bottom: 2px solid #eee;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  padding: 10px;
+  grid-gap: 10px;
+  border-bottom: 2px solid #eee;
 }
 
 .list__item--margined {
-    padding-top: 4px;
+  padding-top: 4px;
 }
 
 .list__item--done {
-    text-decoration: line-through;
+  text-decoration: line-through;
 }
 
 .list__item--hidden {
-    display: none;
+  display: none;
 }
 
 .list__button {
-    padding: 0px;
-    border: none;
-    width: 30px;
-    height: 30px;
-    color: white;
-    cursor: pointer;
-    transition: background-color 1s;
+  padding: 0px;
+  border: none;
+  width: 30px;
+  height: 30px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 1s;
 }
 
 .list__button--done {
-    background-color: hsl(120, 62%, 35%);
+  background-color: hsl(120, 62%, 35%);
 }
 
 .list__button--done:hover {
-    background-color: hsl(120, 62%, 40%);
+  background-color: hsl(120, 62%, 40%);
 }
 
 .list__button--done:active {
-    background-color: hsl(120, 62%, 25%);
+  background-color: hsl(120, 62%, 25%);
 }
 
 .list__button--remove {
-    background-color: hsl(348, 83%, 45%);
+  background-color: hsl(348, 83%, 45%);
 }
 
 .list__button--remove:hover {
-    background-color: hsl(348, 83%, 40%);
+  background-color: hsl(348, 83%, 40%);
 }
 
 .list__button--remove:active {
-    background-color: hsl(348, 83%, 60%);
+  background-color: hsl(348, 83%, 60%);
 }

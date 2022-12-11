@@ -21,9 +21,10 @@
     background: transparent;
     color: hsl(180, 100%, 25%);
     border: none;
-    margin: 0 0 0 20px;
+    margin: 0 15px;
     transition: color 0.5s;
     cursor: pointer;
+    padding: 2px 5px;;
 }
 
 @media (max-width: 767px) {

@@ -15,7 +15,8 @@ const Tasks = ({ tasks, hideDoneTasks }) => (
           {task.content}
         </span>
         <button
-          className="list__button list__button--remove">
+          className="list__button list__button--remove"
+        >
           🗑
         </button>
       </li>

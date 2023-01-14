@@ -13,7 +13,8 @@ const Tasks = ({ tasks, hideDone, removeTask, toggleTaskDone }) => (
           {task.done ? "✔" : ""}
         </button>
         <span
-          className={`list__item--margined ${task.done ? "list__item--done" : ""}`}>
+          className={`list__item--margined ${task.done ? "list__item--done" : ""}`
+          }>
           {task.content}
         </span>
         <button

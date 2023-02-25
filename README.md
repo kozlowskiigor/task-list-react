@@ -1,13 +1,13 @@
-# <img src="public/checkbox.png" height="25"/> **Task list**
+# <img src="images/checkbox.png" height="25"/> **Task list**
 ![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/CreamyVastLeech-max-1mb.gif)
 
-##  <img src="public/checkbox.png" height="20"/> **Task List Demo**
+##  <img src="images/checkbox.png" height="20"/> **Task List Demo**
 [Task List Demo](https://kozlowskiigor.github.io/task-list-react/) 
 
-## <img src="public/checkbox.png" height="20"/> **Preview**
+## <img src="images/checkbox.png" height="20"/> **Preview**
 ![My website](https://raw.githubusercontent.com/kozlowskiigor/simple-to-do-list/main/To-doAnimation2.gif)
 
-## <img src="public/checkbox.png" height="20"/> **Description**
+## <img src="images/checkbox.png" height="20"/> **Description**
 
 ### **Add new task field**
 You can fill in the input field to add task to the task list.
@@ -15,7 +15,7 @@ You can fill in the input field to add task to the task list.
 ### **Add new task button**
 When then input field is filled clicking teal button which is located on the right will add this task to the list below.
 
-### Task list
+## **Task list**
 **Adding a task by pressing the button will cause it to appear on the list below between two buttons.**
 
 Green button on the left is a marker that shows if the task is completed or not. After adding a task it is empty, when we click on it, we will mark the task as completed and the task will be crossed out and the cross mark will apear inside the button. We can click it again both strikethrough and the check mark will disappear changing our task "to complete".
@@ -29,7 +29,7 @@ First "Ukryj ukończone" is used to hide tasks that are marked as completed. Aft
 Second "Ukończ wszystkie" is used to mark all tasks from the list as completed.
 
 
-## <img src="public/checkbox.png" height="20"/> **Technologies used in project:**
+## <img src="images/checkbox.png" height="20"/> **Technologies used in project:**
 - HTML
 - CSS
 - JAVASCRIPT

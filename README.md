@@ -1,5 +1,5 @@
 # <img src="images/checkbox.png" height="25"/> **Task list**
-![Task list](https://raw.githubusercontent.com/kozlowskiigor/Currency-Converter-React/main/images/money.gif)
+![Task list](https://raw.githubusercontent.com/kozlowskiigor/task-list-react/main/images/to-dolist.gif)
 
 ##  <img src="images/checkbox.png" height="20"/> **Task List Demo**
 [Task List Demo](https://kozlowskiigor.github.io/task-list-react/) 

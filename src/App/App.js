@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from 'react';
-import Form from "./Form";
-import Tasks from "./Tasks";
-import Buttons from "./Buttons";
-import Section from "./Section";
-import Header from "./Header";
-import Container from "./Container";
+import { useEffect, useState } from 'react';
+import { Form } from "./Form";
+import { Tasks } from "./Tasks";
+import { Buttons } from "./Buttons";
+import { Section } from "./Section";
+import { Header } from "./Header";
+import { Container } from "./Container";
 
 const getInitialTasks = () => {
   const tasksFromLocalStorage = localStorage.getItem("tasks");

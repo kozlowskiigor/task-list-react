@@ -28,6 +28,7 @@ First "Ukryj ukończone" is used to hide tasks that are marked as completed. Aft
 
 Second "Ukończ wszystkie" is used to mark all tasks from the list as completed.
 
+The added tasks will be saved in local storage, so when you refresh or reopen the page you will see your last changes.
 
 ## <img src="images/checkbox.png" height="20"/> **Technologies used in project:**
 - HTML

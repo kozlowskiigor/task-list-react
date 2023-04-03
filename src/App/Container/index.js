@@ -1,7 +1,7 @@
-import "./style.css";
+import { Main } from "./styled"
 
 export const Container = ({ children }) => (
-  <main className="container">
+  <Main>
     {children}
-  </main>
+  </Main>
 );

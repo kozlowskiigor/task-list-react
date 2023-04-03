@@ -1,7 +1,7 @@
-import "./style.css";
+import { Title } from "./styled"
 
 export const Header = ({ title }) => (
-  <header className="header">
+  <Title>
     <h1>{title}</h1>
-  </header>
+  </Title>
 );

@@ -1,36 +1,36 @@
-.form {
+import styled from 'styled-components';
+
+export const TasksForm = styled.form`
   display: grid;
   grid-gap: 20px;
   grid-template-columns: 1fr auto;
   padding: 20px;
-}
 
-@media (max-width:767px) {
-  .form {
+  @media (max-width:767px) {
     grid-template-columns: 1fr;
-  }
-}
+  };
+`;
 
-.form__input {
+export const Input = styled.input`
   border-color: #eee;
   border-style: solid;
   padding: 10px;
-}
+`;
 
-.button {
+export const Button = styled.button`
   background: hsl(180, 100%, 25%);
   color: #fff;
   border: none;
   padding: 10px;
   cursor: pointer;
   transition: transform 1s, background 0.1s;
-}
 
-.button:hover {
+  &:hover {
   background: hsl(180, 100%, 30%);
   transform: scale(1.1);
-}
+  }
 
-.button:active {
+  &:active {
   background: hsl(180, 100%, 25%);
-}
+  }
+`;

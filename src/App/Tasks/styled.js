@@ -41,11 +41,11 @@ export const Button = styled.button`
 
     &:hover {
       background: hsl(120, 62%, 40%);
-    }
+    };
 
     &:active {
       background: hsl(120, 62%, 25%);
-    }
+    };
   `};
 
   ${({ remove }) => remove && css`
@@ -53,11 +53,11 @@ export const Button = styled.button`
 
     &:hover {
       background: hsl(348, 83%, 40%);
-    }
+    };
 
     &:active {
       background: hsl(348, 83%, 60%);
-    }
+    };
     
   `};
 `;

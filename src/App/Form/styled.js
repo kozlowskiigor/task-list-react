@@ -28,9 +28,9 @@ export const Button = styled.button`
   &:hover {
   background: hsl(180, 100%, 30%);
   transform: scale(1.1);
-  }
+  };
 
   &:active {
   background: hsl(180, 100%, 25%);
-  }
+  };
 `;

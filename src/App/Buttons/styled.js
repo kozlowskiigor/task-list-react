@@ -16,14 +16,14 @@ export const Button = styled.button`
 
   &:hover {
   color: hsl(180, 100%, 35%);
-  }
+  };
 
   &:disabled {
   color: #ccc;
-  }
+  };
 
   @media (max-width: 767px) {
     margin: 10px;
     width: 100%;
-  }
+  };
 `;

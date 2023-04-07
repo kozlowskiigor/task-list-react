@@ -1,7 +1,7 @@
-import { Div, Button } from "./styled"
+import { Wrapper, Button } from "./styled"
 
 export const Buttons = ({ tasks, hideDone, toggleHideDone, setAllDone }) => (
-  <Div>
+  <Wrapper>
     {tasks.length > 0 && (
       <>
         <Button
@@ -17,5 +17,5 @@ export const Buttons = ({ tasks, hideDone, toggleHideDone, setAllDone }) => (
         </Button>
       </>
     )}
-  </Div>
+  </Wrapper>
 );

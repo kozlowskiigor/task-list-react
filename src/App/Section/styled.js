@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.section`
-  background-color: white;
+  background-color: ${({ theme }) => theme.color.white};
   border-bottom: 10px solid ${({ theme }) => theme.color.gray};
 `;
 

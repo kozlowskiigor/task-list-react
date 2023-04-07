@@ -38,6 +38,9 @@ The added tasks will be saved in local storage, so when you refresh or reopen th
 - ES6+ FEATURES
 - GIT
 - REACT
+- STYLED COMPONENTS
+- CUSTOM HOOKS
+- LOCAL STORAGE
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

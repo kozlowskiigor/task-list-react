@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 export const List = styled.ul`
   list-style: none;
   padding: 20px 30px;
-  background-color: white;
+  background-color: ${({ theme }) => theme.color.white};
   margin: 0;
 `;
 
@@ -12,7 +12,7 @@ export const Item = styled.li`
   grid-template-columns: auto 1fr auto;
   padding: 10px;
   grid-gap: 10px;
-  border-bottom: 2px solid #eee;
+  border-bottom: 2px solid ${({ theme }) => theme.color.gray};
 
   ${({ hidden }) => hidden && css`
     display: none;
@@ -32,32 +32,31 @@ export const Button = styled.button`
   border: none;
   width: 30px;
   height: 30px;
-  color: white;
+  color: ${({ theme }) => theme.color.white};
   cursor: pointer;
-  transition: background 1s;
+  transition: filter 0.5s;
 
   ${({ toggleDone }) => toggleDone && css`
-  background: hsl(120, 62%, 35%);
+    background: ${({ theme }) => theme.color.green};
 
     &:hover {
-      background: hsl(120, 62%, 40%);
+      filter: brightness(110%);
     };
 
     &:active {
-      background: hsl(120, 62%, 25%);
+      filter: brightness(90%);
     };
   `};
 
   ${({ remove }) => remove && css`
-      background: hsl(348, 83%, 45%);
+      background: ${({ theme }) => theme.color.red};
 
     &:hover {
-      background: hsl(348, 83%, 40%);
+      filter: brightness(110%);
     };
 
     &:active {
-      background: hsl(348, 83%, 60%);
+      filter: brightness(90%);
     };
-    
   `};
 `;

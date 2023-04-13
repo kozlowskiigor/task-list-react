@@ -16,9 +16,7 @@ export const Form = ({ addNewTask }) => {
   };
 
   return (
-    <StyledForm
-      onSubmit={onFormSubmit}
-    >
+    <StyledForm onSubmit={onFormSubmit}>
       <Input
         value={newTaskContent}
         onChange={onInputChange}

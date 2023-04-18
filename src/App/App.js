@@ -19,9 +19,7 @@ function App() {
 
   return (
     <Container>
-      <Header
-        title="Lista zadań"
-      />
+      <Header title="Lista zadań" />
       <Section
         title="Dodaj nowe zadanie"
         body={

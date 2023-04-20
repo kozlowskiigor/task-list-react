@@ -24,9 +24,7 @@ export const Form = ({ addNewTask }) => {
         placeholder="Jakie zadanie masz do zrobienia?"
         required
       />
-      <Button>
-        Dodaj zadanie
-      </Button>
+      <Button>Dodaj zadanie</Button>
     </StyledForm>
   );
 };
